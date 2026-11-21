@@ -12,7 +12,6 @@ Through 42's peer-to-peer, project-based curriculum, I have built a strong found
 - **cub3D:** A 3D graphical maze engine built in C using raycasting mathematics and MiniLibX.
 - **Minishell:** A custom UNIX command-line interpreter implementing lexing, parsing, pipes, redirections, and process execution.
 - **Philosophers:** A concurrent simulation solving the dining philosophers problem using threads and mutexes.
-- **C++ Modules (00–02):** Transitioning to modern C++ with OOP principles, Orthodox Canonical Class Form and memory allocation.
 - **libft:** A custom C standard library built from scratch, including memory manipulation utilities.
 
 #### 📫 Connect with Me
